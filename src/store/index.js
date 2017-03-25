@@ -20,4 +20,6 @@ const store = new Vuex.Store({
   }
 })
 
+store.dispatch('init')
+
 export default store
