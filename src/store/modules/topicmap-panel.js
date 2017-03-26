@@ -1,7 +1,7 @@
 import http from 'axios'
 
 const state = {
-  topicmapTopics: undefined
+  topicmapTopics: []
 }
 
 const actions = {

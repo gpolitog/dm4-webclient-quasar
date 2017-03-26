@@ -12,5 +12,5 @@ export default {
 
 <style lang="stylus">
 #detail-panel
-  background-color #eff
+  background-color #f8f8f8
 </style>
